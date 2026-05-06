@@ -23,4 +23,4 @@ function findLongestWord(str) {
 }
 
 const input = "I am learning Programming to become a programmer";
-console.log(findLongestWord(input)); // Output: Programming
+console.log(findLongestWord(input)); 
